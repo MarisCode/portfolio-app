@@ -15,3 +15,5 @@
 ## My comments
 The main idea was to generate a simple responsive portfolio page with ReactJS and Bootstrap. I focused on the responsiveness and calm layout. The content was not the priority in this assignment.
 
+There is still a lot of unnecessary files in the project folder. I'm going to clean them up someday soon.
+
